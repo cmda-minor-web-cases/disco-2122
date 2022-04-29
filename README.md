@@ -1,4 +1,4 @@
-# Student vacature bank
+# Disco
 
 ![Student vacature bank](...)
 
