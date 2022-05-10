@@ -11,7 +11,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-Vacature website waarbij je vacatures aangewezen krijgt gebaseerd op het disc-model.
+Vacature website waarbij je vacatures aangewezen krijgt gebaseerd op het disc-model. Een script filter maken om de vacatures aan de juiste kleuren te koppelen aan kleuren van het DISC-model. 
 
 ## Opdrachtgever
 ...
