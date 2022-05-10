@@ -19,7 +19,7 @@ thierno.balde95@gmail.com <br>
 06-17746103 <br>
 
 ## Design challenge
-Hoe kunnen we werkzoekenden mensen richting en houvast geven die niet precies weten wat ze voor soort werk ze willen doen nadat ze hun opleiding hebben voltooid. Oplossingen en vervolg stappen voor de mensen aanbieden aan de hand van het DISC model.
+Hoe kunnen we werkzoekenden mensen richting en houvast geven die niet precies weten wat ze voor soort werk ze willen doen nadat ze hun opleiding hebben voltooid. Vacatures filteren en aanbieden aan de hand van het DISC model en eventuele vervolgstappen zoals omscholingsopties.
 
 ### User stories
 1 ...  
