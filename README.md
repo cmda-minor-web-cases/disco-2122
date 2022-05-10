@@ -1,6 +1,6 @@
 # Disco
 
-![Student vacature bank](...)
+![Student vacature bank](https://www.marketing91.com/wp-content/uploads/2020/07/What-is-DiSC-Model.jpg)
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
