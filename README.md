@@ -11,7 +11,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-...
+Vacature website waarbij je vacatures aangewezen krijgt gebaseerd op het disc-model.
 
 ## Opdrachtgever
 ...
