@@ -23,9 +23,9 @@ Hoe kunnen we een aantrekkelijke website maken voor werkzoekenden mensen richtin
 
 ### User stories
 1 Als werkzoekende een baan vinden met behulp van een persoonlijkheidstest
-Wanneer ik ga zoeken naar mijn carrière opties, wil ik een gepersonaliseerde overzicht hebben van alle opties, zodat ik kan zien wat bij mij past.
+Wanneer ik ga zoeken naar mijn carrière opties, wil ik een gepersonaliseerde overzicht hebben van alle opties, zodat ik kan zien wat bij mij past. <br>
 2 Als bedrijf zoeken naar werknemers
-Wanneer ik als bedrijf opzoek ben naar werknemers, wil ik een overzicht van geschikte kandidaten, zodat ik zo snel mogelijk een werknemer kan vinden.
+Wanneer ik als bedrijf opzoek ben naar werknemers, wil ik een overzicht van geschikte kandidaten, zodat ik zo snel mogelijk een werknemer kan vinden.<br>
 3 Als werkzoekende wil ik meer over mijn persoonlijkheid en gedrag te weten komen  
 Wanneer ik meer over mijn persoonlijkheid en gedrag te weten wil komen, wil ik een hulpmiddel om hier meer over te leren, zodat ik zelfverzekerder keuzes kan maken tijdens mijn carrière. 
 
