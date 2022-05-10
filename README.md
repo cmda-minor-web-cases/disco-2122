@@ -14,9 +14,9 @@
 Vacature website waarbij je vacatures aangewezen krijgt gebaseerd op het disc-model. Een script filter maken om de vacatures aan de juiste kleuren te koppelen aan kleuren van het DISC-model. 
 
 ## Opdrachtgever
-Thierno Balde
-thierno.balde95@gmail.com
-06-17746103
+Thierno Balde <br>
+thierno.balde95@gmail.com <br>
+06-17746103 <br>
 
 ## Design challenge
 ...
