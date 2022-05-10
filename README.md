@@ -22,11 +22,11 @@ thierno.balde95@gmail.com <br>
 Hoe kunnen we een aantrekkelijke website maken voor werkzoekenden mensen richting en houvast geven die niet precies weten wat ze voor soort werk ze willen doen nadat ze hun opleiding hebben voltooid. Vacatures filteren en aanbieden aan de hand van het DISC model en eventuele vervolgstappen zoals omscholingsopties.
 
 ### User stories
-<b>1 Als werkzoekende een baan vinden met behulp van een persoonlijkheidstest</b>
-Wanneer ik ga zoeken naar mijn carrière opties, wil ik een gepersonaliseerde overzicht hebben van alle opties, zodat ik kan zien wat bij mij past. <br><br>
-<b>2 Als bedrijf zoeken naar werknemers</b>
-Wanneer ik als bedrijf opzoek ben naar werknemers, wil ik een overzicht van geschikte kandidaten, zodat ik zo snel mogelijk een werknemer kan vinden.<br><br>
-<b>3 Als werkzoekende wil ik meer over mijn persoonlijkheid en gedrag te weten komen</b>
+<b>1 Als werkzoekende een baan vinden met behulp van een persoonlijkheidstest</b> <br>
+Wanneer ik ga zoeken naar mijn carrière opties, wil ik een gepersonaliseerde overzicht hebben van alle opties, zodat ik kan zien wat bij mij past. <br>
+<b>2 Als bedrijf zoeken naar werknemers</b><br>
+Wanneer ik als bedrijf opzoek ben naar werknemers, wil ik een overzicht van geschikte kandidaten, zodat ik zo snel mogelijk een werknemer kan vinden.<br>
+<b>3 Als werkzoekende wil ik meer over mijn persoonlijkheid en gedrag te weten komen</b><br>
 Wanneer ik meer over mijn persoonlijkheid en gedrag te weten wil komen, wil ik een hulpmiddel om hier meer over te leren, zodat ik zelfverzekerder keuzes kan maken tijdens mijn carrière. 
 
 ## Data
