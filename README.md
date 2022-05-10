@@ -29,6 +29,9 @@ Wanneer ik als bedrijf opzoek ben naar werknemers, wil ik een overzicht van gesc
 <b>3 Als werkzoekende wil ik meer over mijn persoonlijkheid en gedrag te weten komen</b><br>
 Wanneer ik meer over mijn persoonlijkheid en gedrag te weten wil komen, wil ik een hulpmiddel om hier meer over te leren, zodat ik zelfverzekerder keuzes kan maken tijdens mijn carrière. 
 
+## Missie
+Mensen richting en houvast geven die niet precies weten wat ze voor soort werk ze willen doen nadat ze hun opleiding hebben voltooid. Oplossingen en vervolg stappen voor de mensen aanbieden aan de hand van het DISC model.
+
 ## Data
 Relevante data is via een API te ontsluiten.
 
