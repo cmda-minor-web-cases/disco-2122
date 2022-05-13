@@ -14,9 +14,7 @@
 Vacature website waarbij je vacatures aangewezen krijgt gebaseerd op het disc-model. Een script filter maken om de vacatures aan de juiste kleuren te koppelen aan kleuren van het DISC-model. 
 
 ## Opdrachtgever
-Thierno Balde <br>
-thierno.balde95@gmail.com <br>
-06-17746103 <br>
+Thierno Balde
 
 ## Design challenge
 Hoe kunnen we een aantrekkelijke website maken voor werkzoekenden mensen richting en houvast geven die niet precies weten wat ze voor soort werk ze willen doen nadat ze hun opleiding hebben voltooid. Vacatures filteren en aanbieden aan de hand van het DISC model en eventuele vervolgstappen zoals omscholingsopties.
@@ -33,7 +31,7 @@ Wanneer ik meer over mijn persoonlijkheid en gedrag te weten wil komen, wil ik e
 Mensen richting en houvast geven die niet precies weten wat ze voor soort werk ze willen doen nadat ze hun opleiding hebben voltooid. Oplossingen en vervolg stappen voor de mensen aanbieden aan de hand van het DISC model.
 
 ## Data
-Relevante data is via een API te ontsluiten.
+De vacatures worden uit verschillende externe vacature websites gescraped. 
 
 ## Planning
 In de eerste week van de meesterproef is een briefing met de opdrachtgever en begeleiders. Wekelijks wordt aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen via Teams vragen gesteld worden.
