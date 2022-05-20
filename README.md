@@ -36,7 +36,7 @@ De vacatures en algemene data over bedrijven worden uit verschillende externe va
 ## Planning
 In de eerste week van de meesterproef is een briefing met de opdrachtgever en begeleiders. Wekelijks wordt aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen via Teams vragen gesteld worden.
 
-Briefing over de opdracht op 23 mei om 14:00 in het gebouw leeuwenburg <br><br> Leeuwenburg (LWB). <br>
+Briefing over de opdracht op maandag 23 mei om 14:00 in het gebouw leeuwenburg <br><br> Leeuwenburg (LWB). <br>
 Weesperzijde 190 <br>
 1097 DZ Amsterdam 
 
