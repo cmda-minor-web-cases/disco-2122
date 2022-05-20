@@ -31,10 +31,15 @@ Wanneer ik meer over mijn persoonlijkheid en gedrag te weten wil komen, wil ik e
 Mensen richting en houvast geven die niet precies weten wat ze voor soort werk ze willen doen nadat ze hun opleiding hebben voltooid. Oplossingen en vervolg stappen voor de mensen aanbieden aan de hand van het DISC model.
 
 ## Data
-De vacatures worden uit verschillende externe vacature websites gescraped. 
+De vacatures en algemene data over bedrijven worden uit verschillende externe vacature websites gescraped. 
 
 ## Planning
 In de eerste week van de meesterproef is een briefing met de opdrachtgever en begeleiders. Wekelijks wordt aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen via Teams vragen gesteld worden.
+
+Briefing over de opdracht op 23 mei om 14:00 in het gebouw leeuwenburg <br><br> Leeuwenburg (LWB). <br>
+Weesperzijde 190 <br>
+1097 DZ Amsterdam 
+
 
 ## Licentie
 
