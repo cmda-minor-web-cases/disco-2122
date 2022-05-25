@@ -60,8 +60,6 @@ DISC Test
 -	Feiten (blauw)
 -	Gezelligheid (geel)
 -	Assertief (rood)
-![image](https://user-images.githubusercontent.com/70690100/170264478-9d48f107-b579-4e91-9e4c-b1861d4e5734.png)
-
 
 
 ## Licentie
