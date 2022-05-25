@@ -1,3 +1,4 @@
+# Wat is de werking van de website (schets)
 <img width="900" alt="Schermafbeelding 2022-05-25 om 14 39 07" src="https://user-images.githubusercontent.com/74242736/170263847-44fa4538-8262-4d3f-b7a7-07ce532c3e4b.png">
 
 
