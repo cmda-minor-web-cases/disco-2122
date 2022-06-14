@@ -76,9 +76,9 @@ Het doel is om uiteindelijk a.d.h.v. de persoonlijkheidstest relevante vacatures
 
 <img width="1038" alt="Schermafbeelding 2022-06-14 om 14 03 32" src="https://user-images.githubusercontent.com/74242736/173572699-a83e51c4-cd94-4d6b-aced-1b5cca25b7ff.png">
 
-<img width="1038" alt="Schermafbeelding 2022-06-14 om 14 04 41" src="https://user-images.githubusercontent.com/74242736/173572893-f7649133-16c4-4bc0-b678-82efa39c74d3.png">
+<img width="800" alt="Schermafbeelding 2022-06-14 om 14 04 41" src="https://user-images.githubusercontent.com/74242736/173572893-f7649133-16c4-4bc0-b678-82efa39c74d3.png">
 
-<img width="1038" alt="Schermafbeelding 2022-06-14 om 14 06 30" src="https://user-images.githubusercontent.com/74242736/173573175-f021a6de-5685-4603-a393-694f20f61e6c.png">
+<img width="800" alt="Schermafbeelding 2022-06-14 om 14 06 30" src="https://user-images.githubusercontent.com/74242736/173573175-f021a6de-5685-4603-a393-694f20f61e6c.png">
 
 ### Versie 3 'Alle vacatures automatisch scannen en matchen met DISC model'
 
