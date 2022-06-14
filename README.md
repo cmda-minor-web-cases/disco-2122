@@ -69,16 +69,16 @@ Het doel is om uiteindelijk a.d.h.v. de persoonlijkheidstest relevante vacatures
 
 <img width="1038" alt="Schermafbeelding 2022-06-14 om 14 02 33" src="https://user-images.githubusercontent.com/74242736/173572482-199eb160-e605-4eb5-bc8f-b2afed24c553.png">
 
-<img width="1034" alt="Schermafbeelding 2022-06-14 om 14 07 13" src="https://user-images.githubusercontent.com/74242736/173573297-2af1595b-3acf-47c2-b6f8-e3595c6f3399.png">
+<img width="1038" alt="Schermafbeelding 2022-06-14 om 14 07 13" src="https://user-images.githubusercontent.com/74242736/173573297-2af1595b-3acf-47c2-b6f8-e3595c6f3399.png">
 
 
 ### Versie 2 'Kernwoorden uit vacature halen en matchen met DISC model'
 
-<img width="1439" alt="Schermafbeelding 2022-06-14 om 14 03 32" src="https://user-images.githubusercontent.com/74242736/173572699-a83e51c4-cd94-4d6b-aced-1b5cca25b7ff.png">
+<img width="1038" alt="Schermafbeelding 2022-06-14 om 14 03 32" src="https://user-images.githubusercontent.com/74242736/173572699-a83e51c4-cd94-4d6b-aced-1b5cca25b7ff.png">
 
-<img width="870" alt="Schermafbeelding 2022-06-14 om 14 04 41" src="https://user-images.githubusercontent.com/74242736/173572893-f7649133-16c4-4bc0-b678-82efa39c74d3.png">
+<img width="1038" alt="Schermafbeelding 2022-06-14 om 14 04 41" src="https://user-images.githubusercontent.com/74242736/173572893-f7649133-16c4-4bc0-b678-82efa39c74d3.png">
 
-<img width="824" alt="Schermafbeelding 2022-06-14 om 14 06 30" src="https://user-images.githubusercontent.com/74242736/173573175-f021a6de-5685-4603-a393-694f20f61e6c.png">
+<img width="1038" alt="Schermafbeelding 2022-06-14 om 14 06 30" src="https://user-images.githubusercontent.com/74242736/173573175-f021a6de-5685-4603-a393-694f20f61e6c.png">
 
 ### Versie 3 'Alle vacatures automatisch scannen en matchen met DISC model'
 
