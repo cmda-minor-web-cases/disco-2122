@@ -2,7 +2,7 @@
 <img width="900" alt="Schermafbeelding 2022-05-25 om 14 39 07" src="https://user-images.githubusercontent.com/74242736/170263847-44fa4538-8262-4d3f-b7a7-07ce532c3e4b.png">
 
 # DISC Test
-DISC Test
+Vragenlijst om te bepalen binnen welke categorieën van het DISC model een persoon valt.
 
 1.	Ben jij direct of indirect?
 -	Direct: Dominant en interactief
@@ -65,14 +65,14 @@ DISC Test
 # Proces karaktereigenschappen matchen met vacatures
 Het doel is om uiteindelijk a.d.h.v. de persoonlijkheidstest relevante vacatures aan te raden aan gebruikers. Een gebruiker krijgt per DISC categorie punten. Daaruit komen dan karaktereigenschappen die bij de persoon passen. De vacatures moeten gescand worden op kernwoorden, en ook een puntensysteem krijgen waarbij naar voren komt bij welke DISC categorie de vacature het best past. Hierna is het dan de bedoeling om de punten van de gebruiker en vacatures te matchen, en op die manier de meest relevante vacatures aan te bieden op basis van karaktereigenschappen. Omdat dit een uitdagende taak is ben ik begonnen om in stappen verschillende prototypes uit te werken. Hierbij focuste ik op een deel van de eindfunctionaliteit, om op die manier in stappen dichter bij de oplossing te komen.
 
-### Versie 1 'Checken welke eigenschap bij kernwoorden past'
+## Versie 1 'Checken welke eigenschap bij kernwoorden past'
 
 <img width="1038" alt="Schermafbeelding 2022-06-14 om 14 02 33" src="https://user-images.githubusercontent.com/74242736/173572482-199eb160-e605-4eb5-bc8f-b2afed24c553.png">
 
 <img width="1038" alt="Schermafbeelding 2022-06-14 om 14 07 13" src="https://user-images.githubusercontent.com/74242736/173573297-2af1595b-3acf-47c2-b6f8-e3595c6f3399.png">
 
 
-### Versie 2 'Kernwoorden uit vacature halen en matchen met DISC model'
+## Versie 2 'Kernwoorden uit vacature halen en matchen met DISC model'
 
 <img width="1038" alt="Schermafbeelding 2022-06-14 om 14 03 32" src="https://user-images.githubusercontent.com/74242736/173572699-a83e51c4-cd94-4d6b-aced-1b5cca25b7ff.png">
 
@@ -80,7 +80,7 @@ Het doel is om uiteindelijk a.d.h.v. de persoonlijkheidstest relevante vacatures
 
 <img width="800" alt="Schermafbeelding 2022-06-14 om 14 06 30" src="https://user-images.githubusercontent.com/74242736/173573175-f021a6de-5685-4603-a393-694f20f61e6c.png">
 
-### Versie 3 'Alle vacatures automatisch scannen en matchen met DISC model'
+## Versie 3 'Alle vacatures automatisch scannen en matchen met DISC model'
 
 
 ## Licentie
