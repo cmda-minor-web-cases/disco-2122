@@ -84,6 +84,10 @@ Het doel is om uiteindelijk a.d.h.v. de persoonlijkheidstest relevante vacatures
 
 ## Versie 3 'Alle vacatures automatisch scannen en matchen met DISC model'
 
+<img width="1038" alt="Schermafbeelding 2022-06-15 om 15 03 10" src="https://user-images.githubusercontent.com/74242736/173833525-f2d36be4-17e7-42fa-821a-4f9da36ab317.png">
+
+<img width="1038" alt="Schermafbeelding 2022-06-15 om 15 03 48" src="https://user-images.githubusercontent.com/74242736/173833644-5d56f400-733d-4f5d-a223-fe3fb3114133.png">
+
 
 ## Licentie
 
