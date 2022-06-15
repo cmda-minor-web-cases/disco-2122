@@ -85,6 +85,7 @@ In de tweede versie heb ik de kernwoorden uit een vacature gehaald, als een soor
 <img width="800" alt="Schermafbeelding 2022-06-14 om 14 06 30" src="https://user-images.githubusercontent.com/74242736/173573175-f021a6de-5685-4603-a393-694f20f61e6c.png">
 
 ## Versie 3 'Alle vacatures automatisch scannen en matchen met DISC model'
+In versie 3 zijn de juiste vacatures gebruikt die we hebben gekregen van de opdrachtgever. Ook is er nu een focus aangebracht door de opdrahtgever op de BioTech sector, daar hebben wij de vacatures en stijl op aangepast. In deze versie zit een automatisch JS systeem die per toegevoegde vacature de kernwoorden naloopt en matcht met de DISC categorie. Het probleem wat hier blijft bestaan is echter dat er een algemene counter is die omhoog gaat per matchend kernwoord. Het systeem kijkt niet per 3 kernwoorden van de vacature, en maakt geen eigen variabele aan die per vacature de matchende kernwoorden bijhoudt. Hierdoor is het nog niet gelukt om een sorteer systeem te maken op basis van de DISC categorieën. Daarvoor moet het systeem per vacature van 0 tot max 3 punten geven, en dat bijhouden in een variabele.
 
 <img width="1038" alt="Schermafbeelding 2022-06-15 om 15 03 10" src="https://user-images.githubusercontent.com/74242736/173833525-f2d36be4-17e7-42fa-821a-4f9da36ab317.png">
 
