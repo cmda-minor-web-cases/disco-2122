@@ -68,6 +68,7 @@ Vragenlijst om te bepalen binnen welke categorieën van het DISC model een perso
 Het doel is om uiteindelijk a.d.h.v. de persoonlijkheidstest relevante vacatures aan te raden aan gebruikers. Een gebruiker krijgt per DISC categorie punten. Daaruit komen dan karaktereigenschappen die bij de persoon passen. De vacatures moeten gescand worden op kernwoorden, en ook een puntensysteem krijgen waarbij naar voren komt bij welke DISC categorie de vacature het best past. Hierna is het dan de bedoeling om de punten van de gebruiker en vacatures te matchen, en op die manier de meest relevante vacatures aan te bieden op basis van karaktereigenschappen. Omdat dit een uitdagende taak is ben ik begonnen om in stappen verschillende prototypes uit te werken. Hierbij focuste ik op een deel van de eindfunctionaliteit, om op die manier in stappen dichter bij de oplossing te komen.
 
 ## Versie 1 'Checken welke eigenschap bij kernwoorden past'
+In de eerste versie ben ik aan de slag gegaan om strings uit een array te matchen met een gegeven waarde. Op die manier is het mogelijk om te kijken bij welke categorie van het DISC model de kernwoorden uit de vacatures passen. Dit heb ik gedaan door gebruik te maken van '.includes'. Dit chheckt of een bepaalde waarde in een array voorkomt, en vervolgens daar een counter aan toegevoegd om de waarde te meten. 
 
 <img width="1038" alt="Schermafbeelding 2022-06-14 om 14 02 33" src="https://user-images.githubusercontent.com/74242736/173572482-199eb160-e605-4eb5-bc8f-b2afed24c553.png">
 
@@ -75,6 +76,7 @@ Het doel is om uiteindelijk a.d.h.v. de persoonlijkheidstest relevante vacatures
 
 
 ## Versie 2 'Kernwoorden uit vacature halen en matchen met DISC model'
+In de tweede versie heb ik de kernwoorden uit een vacature gehaald, als een soort prototype van hoe het moet gaan werken. De vacatures zouden gescraped moeten worden, en vervolgens in een vast format gezet worden. Vervolgens zou je net als ik in deze versie heb gedaan de kernwoorden uit een vacature kunnen halen, en die door de functie halen. Op die manier kan je dan een counter maken die bijhoudt per DISC categorie hoeveel kernwoorden er matchen uit de vacatures. Het probleem wat hier voorkomt is dat ik de kernwoorden los moest selecteren in JS, en er niet automatisch wordt gecheckt op elke vacature. Dit is uiteraard niet handig voor een vacaturebank waarin veel vacatures staan.
 
 <img width="1038" alt="Schermafbeelding 2022-06-14 om 14 03 32" src="https://user-images.githubusercontent.com/74242736/173572699-a83e51c4-cd94-4d6b-aced-1b5cca25b7ff.png">
 
