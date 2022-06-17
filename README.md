@@ -91,6 +91,37 @@ In versie 3 zijn de juiste vacatures gebruikt die we hebben gekregen van de opdr
 
 <img width="1038" alt="Schermafbeelding 2022-06-15 om 15 03 48" src="https://user-images.githubusercontent.com/74242736/173833644-5d56f400-733d-4f5d-a223-fe3fb3114133.png">
 
+# Code reviews (Joep)
+
+# Eerste code review (met Robert)
+
+### Probleem
+Het probleem is het koppelen van vacatures aan karaktereigenschappen. Het lukt om een puntensysteem te binden aan de vacatures, alleen het per vacature opslaan van de punten lukt niet.
+
+### Oplossing
+
+Volgens Robert is de beste oplossing om JSON te gebruiken en een algoritme te schrijven dat de vacatures matcht, en vervolgens de best passende terug geeft op basis van karaktereigenschappen.
+
+### Hoe ga ik dit doen?
+
+Beginnen met 12 vacatures uit de site van Thierno in de HTML van de website te verwerken. Hierbij is het belangrijk om te zorgen dat alle vacatures in een duidelijke, en eenduidige structuur zijn opgebouwd van HTML. Hierdoor kan je later met JS een goed systeem bouwen dat alle vacatures naloopt, maar dan moeten de kernwoorden constant op dezelfde plek in de HTML staan van een vacature.
+
+
+# Tweede code review (met Julian)
+
+### Probleem
+
+Het probleem was een goed werkende zoekfunctie bouwen waarmee je kan zoeken op de titels van vacatures. Het was mij gelukt om content uit de zoekbalk te matchen met de h2 (titel) van een vacature. Alleen nog niet om specifieke vacatures niet te laten zien wanneer de zoekopdracht niet overeenkwam. Ik had een if statement gebruikt waarbij er een display'none' CSS class werd toegevoegd wanneer de zoekbalk value niet overeenkwam. Alleen werd dit niet voor specifieke vacatures gedaan, maar werden alle vacatures dan niet meer zichtbaar.
+
+### Oplossing
+
+De oplossing is om te zorgen dat de er niet een algemene if statement is die niet passende resultaten verbergt. Hierdoor worden dan alle vacatures niet zichtbaar. Hoe ik het eerst had was een forEach met een  if statement om te kijken of de content overeenkomt met de titel van een vacature. Alleen door de manier hoe ik de forEach had gecodeerd werden dus aan alle vacatures een classlist.Add('none') toegevoegd. 
+
+### Hoe ga ik dit doen?
+
+De juiste manier is dus om in de forEach op de parameter (vacature) een if statement mee te geven. Je hide alle vacatures automatisch, en gebruikt dan classlist.remove om de matchende vacatures wel te laten zien. Door gebruik te maken van .include kan je kijken of content overeenkomt met de titel van een vacature.
+
+<img width="680" alt="Schermafbeelding 2022-06-17 om 14 31 13" src="https://user-images.githubusercontent.com/74242736/174298635-e7d79099-28b7-459a-8d54-f938722c0c7a.png">
 
 ## Licentie
 
