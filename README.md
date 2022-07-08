@@ -40,9 +40,3 @@ Briefing over de opdracht op maandag 23 mei om 14:00 in het gebouw leeuwenburg <
 Weesperzijde 190 <br>
 1097 DZ Amsterdam 
 
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
